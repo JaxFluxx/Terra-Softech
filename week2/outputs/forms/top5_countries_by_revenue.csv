@@ -1,0 +1,6 @@
+Country,country_total_quantity,country_total_revenue,country_customer_count,country_product_count,country_line_count,country_order_count,country_first_order_date,country_last_order_date,country_avg_order_value
+United Kingdom,4241305,7285024.64,3920,3645,349203,16646,2010-12-01 08:26:00,2011-12-09 12:49:00,437.64
+Netherlands,200361,285446.34,9,782,2359,94,2010-12-01 11:27:00,2011-12-08 12:12:00,3036.66
+EIRE,140133,265262.46,3,1943,7226,260,2010-12-01 14:05:00,2011-12-08 15:54:00,1020.24
+Germany,119154,228678.4,94,1664,9025,457,2010-12-01 13:04:00,2011-12-09 12:16:00,500.39
+France,111428,208934.31,87,1522,8326,389,2010-12-01 08:45:00,2011-12-09 12:50:00,537.11
