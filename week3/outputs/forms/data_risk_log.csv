@@ -1,0 +1,3 @@
+risk,handling,coverage_detail,bulk_order_threshold,affected_order_count,affected_revenue,affected_revenue_share,decision_use
+Partial December 2011,"Excluded from scored trends, cohorts, and market comparisons",8 observed trading days,,778,517190.44,0.05819492330704294,Retained only as documented incomplete history
+Bulk order sensitivity,Retained in raw revenue and excluded only from robust sensitivity metrics,Orders above the complete-period 99th percentile,3807.0712000000317,178,1459097.7399999998,0.17432431577288848,Prevents a few large invoices from dominating customer and country conclusions

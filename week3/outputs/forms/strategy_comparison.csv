@@ -1,0 +1,4 @@
+strategy,current_scale,evidence_strength,diversification_benefit,primary_risk,90_day_feasibility,recommendation
+UK retention and development only,High,High,Low,Continued dependence on one market,High,"Protect UK revenue, but does not reduce market concentration risk"
+International expansion only,Low to Medium,Medium,High,Operational readiness and country concentration uncertainty,Medium,Do not prioritize alone because UK is the current revenue base
+Staged hybrid approach,High UK base plus controlled international learning,High for UK; Medium for pilot countries,Medium to High,Requires disciplined pilot gates,High,Recommended: protect and develop UK customers while validating top pilot markets
